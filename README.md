@@ -1,1 +1,1 @@
-https://github.com/krishnenduka-ui/to-do-list.git
+https://krishnenduka-ui.github.io/to-do-list
