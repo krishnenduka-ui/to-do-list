@@ -1,0 +1,22 @@
+body{
+    background-color: lightgray;
+}
+
+ul{
+    list-style: none;
+
+}
+.list-item{
+    
+    padding: 6px;
+    
+    cursor: pointer;
+}
+
+
+.strike {
+    text-decoration: line-through;
+    color: gray;
+}
+
+
